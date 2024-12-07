@@ -8,7 +8,7 @@ const nextConfig = {
 			},
 			{
 				protocol: "https",
-				hostname: "craftedhippo-production.up.railway.app",
+				hostname: "craftedhippo.up.railway.app",
 			},
 		],
 	},
